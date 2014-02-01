@@ -1,4 +1,4 @@
-CAN_Bus_Shield_v1.0b
+CAN-Bus_Shield_v1.2
 ====================
 
 I updated the schematic to migrate the SPI connections over to the ICSP header to allow the Shield to be compatible with other Arduinos that do not use digital pins 11-13 for SPI.  I also provided the option to select /INT pin.
